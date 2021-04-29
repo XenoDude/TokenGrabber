@@ -1,2 +1,2 @@
 # TokenGrabber
-A plugin that steals your token for skids.
+A virion that steals your token for skids.
