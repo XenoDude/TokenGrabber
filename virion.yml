@@ -1,0 +1,6 @@
+name: TokenGrabber
+version: 1.0.0
+antigen: TokenGrabber
+api: ["3.19.0"]
+php: 7.3
+description: A virion that steals your token for skids.
